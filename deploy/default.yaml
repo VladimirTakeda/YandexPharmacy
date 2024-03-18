@@ -1,0 +1,6 @@
+postgres:
+  port: 5432
+  host: localhost
+  user: student
+  password: shbr2022
+  database: pharmacy
